@@ -178,9 +178,14 @@ and suggestions.
 [@dervus]: https://gitlab.com/dervus
 
 
+## Alternatives
+
+* [redis-gcra](https://github.com/rwz/redis-gcra)
+
+
 ## Copyright
 
-Copyright (c) 2020-2021 Alexey Zapparov<br>
+Copyright (c) 2020-2022 Alexey Zapparov<br>
 See [LICENSE.txt][] for further details.
 
 
